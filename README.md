@@ -10,9 +10,9 @@
 
 ## System:
 * Convolutional Neural Network (CNN) - Deep Learning for Feature Extraction.
-..* 3 ConvLayers and 2 FC-Layers.
+- 3 ConvLayers and 2 FC-Layers.
 * Support Vector Machine (SVM) - Machine Learning for Classification.
-..* Linear, SVC.
+- Linear, SVC.
 
 ## Algorithm/ Data Flow:
 * User provides path to music folder/ library.
